@@ -712,6 +712,16 @@ AI 모델의 추론 과정에서 발생한 데이터 정합성 문제와 입력 
 
 본 테스트 로그는 페르소나의 일관성과 철저한 안전장치 설계가 AI 콘텐츠의 신뢰도와 사용자 몰입도를 결정짓는 핵심임을 증명하였습니다.
 
-### 5 추가 과제
+## 5 추가 과제
 
- URL : Gems 레시피 챗봇(https://gemini.google.com/gem/1NChgoeuDh6xTpO3vg5CYZVnMD9qRgRMh?usp=sharing)
+**보너스 1 – 나만의 봇 배포(재사용성 강화)**
+
+ URL : ![Gems 레시피 챗봇](https://gemini.google.com/gem/1NChgoeuDh6xTpO3vg5CYZVnMD9qRgRMh?usp=sharing) (https://gemini.google.com/gem/1NChgoeuDh6xTpO3vg5CYZVnMD9qRgRMh?usp=sharing)
+ 
+**보너스 2 – 멀티모달 확장(업무 결과의 시각화)_노트북LM **
+
+![](31.png)
+
+![](32.png)
+
+
